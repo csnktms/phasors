@@ -6,5 +6,9 @@ Python app to visualize phasors with sinusoidal excitation in the Real and Imagi
 ### Usage
 
 ```shell
+pip install numpy
+```
+
+```shell
 python main.py
 ```
